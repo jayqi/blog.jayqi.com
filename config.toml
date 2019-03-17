@@ -1,4 +1,4 @@
-baseURL = "github.com/jayqi/blog.jayqi.com"
+baseURL = "https://gallant-joliot-2089b3.netlify.com/"
 languageCode = "en-us"
 title = "Jay Qi"
 theme = "hyde-hyde"
