@@ -1,6 +1,6 @@
 ---
 title: "Choosing Hugo and Netlify"
-date: 2019-03-17T12:12:13-05:00
+date: 2019-03-17T17:26:13-05:00
 draft: false
 ---
 
@@ -79,4 +79,4 @@ There seem to be other bells and whistles that Netlify has that I probably won't
 
 ---
 
-So... :tada:---here is my new blog. Here's hoping that I keep it going this time. 
+So... :tada:---here is my new blog. Here's hoping that I keep it going this time.
