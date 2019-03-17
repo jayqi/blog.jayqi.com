@@ -1,12 +1,14 @@
-baseURL = "https://gallant-joliot-2089b3.netlify.com/"
+baseURL = "https://blog.jayqi.com/"
 languageCode = "en-us"
 title = "Jay Qi"
 theme = "hyde-hyde"
 
+enableEmoji = true
+
 [params]
-    author = "YQ"
-    title = "Blog"
-    description = "descriptionhere"
+    #author = "JYQ" # doesn't seem to do anything
+    #title = "Blog" # doesn't seem to do anything
+    description = "Blog"
     authorimage = "/img/jqi_photo.jpg"
     dateformat = "January 2, 2006"
 
