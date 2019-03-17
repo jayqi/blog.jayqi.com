@@ -2,3 +2,33 @@ baseURL = "https://gallant-joliot-2089b3.netlify.com/"
 languageCode = "en-us"
 title = "Jay Qi"
 theme = "hyde-hyde"
+
+[params]
+    author = "YQ"
+    title = "Blog"
+    description = "descriptionhere"
+    authorimage = "/img/jqi_photo.jpg"
+    dateformat = "January 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "Jay Qi"
+    #license = "CC BY-SA 4.0"
+    #licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+## Social Accounts
+[params.social]
+    github = "jayqi"
+    linkedin = "jayqi"
+    twitter = "jayyqi"
+
+## Main Menu
+[[menu.main]]
+        name = "Posts"
+        weight = 100
+        identifier = "posts"
+        url = "/posts/"
