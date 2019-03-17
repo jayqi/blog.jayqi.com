@@ -1,0 +1,4 @@
+baseURL = "github.com/jayqi/blog.jayqi.com"
+languageCode = "en-us"
+title = "Jay Qi"
+theme = "hyde-hyde"
