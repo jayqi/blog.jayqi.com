@@ -8,7 +8,7 @@ This weekend, I decided to reboot my blog.
 
 I had an old blog that I had written a handful of posts in 2016 but hadn't touched since. That one was a static website built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). Since those posts weren't really that useful, I just tore down the whole thing to start fresh. (The content from that old blog is still on [GitHub](https://github.com/jayqi/blog.jayqi.com-old).)
 
-In this post, I discuss my thinking behind choosing to use [Hugo](https://gohugo.io/) as a site generator and [Netlify](https://netlify.com) to host. A followup post will walk through what I did to actually set this thing up.
+In this post, I discuss my thinking behind choosing to use [Hugo](https://gohugo.io/) as a site generator and [Netlify](https://netlify.com) to host. A [followup post]({{< ref "/posts/setting-up-hugo-and-netlify" >}}) walks through what I did to actually set this thing up.
 
 ## Choosing a static generator: Hugo
 
@@ -46,6 +46,7 @@ I also want to note that only Jekyll has built-in GitHub Pages support for autom
 
 Here are some of the things I read while investigating:
 
+- ["An Introduction to Static Site Generators"](https://medium.com/@alexsanchezdesigns/an-introduction-to-static-site-generators-a75ab6149285)
 - ["How to Choose the Right Static Generator: Jekyll vs. Hugo vs. Hexo"](https://www.techiediaries.com/jekyll-hugo-hexo/)
 - ["Hugo or Jekyll? 6 Factors You Should Know"](https://forestry.io/blog/hugo-and-jekyll-compared/)
 - ["Migrating Blogs (Again) from Pelican to Hugo"](https://arunrocks.com/moving-blogs-pelican-to-hugo/)
